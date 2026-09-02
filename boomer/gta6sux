@@ -17,9 +17,9 @@ echo "[\033[0;31minit\033[0m] mogging sequence"
 sleep 1.2
 
 memes=(
-        "consoomerism"
-        "edginess"
-      )
+    "consoomerism"
+    "edginess"
+)
 for meme in "${memes[@]}"; do
     echo "[\033[0;31mcompiling\033[0m] $meme"
     sleep 0.69
