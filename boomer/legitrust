@@ -1,0 +1,36 @@
+# ASCII fonts: DOS Rebel, 3D ASCII, Small Isometric1, Isometric1, Relief, S Blood
+# Delta Corps Priest1, Alpha, Binary, Computer, Decimal, Hex, Isometric3, Isometric 4
+# Octal, Relief2, Small Shadow, Shadow, Stellar
+
+echo "
+   ▄████████ ███    █▄     ▄████████     ███           ▄████████  ▄██████▄  ████████▄     ▄████████ 
+  ███    ███ ███    ███   ███    ███ ▀█████████▄      ███    ███ ███    ███ ███   ▀███   ███    ███ 
+  ███    ███ ███    ███   ███    █▀     ▀███▀▀██      ███    █▀  ███    ███ ███    ███   ███    █▀  
+ ▄███▄▄▄▄██▀ ███    ███   ███            ███   ▀      ███        ███    ███ ███    ███  ▄███▄▄▄     
+▀▀███▀▀▀▀▀   ███    ███ ▀███████████     ███          ███        ███    ███ ███    ███ ▀▀███▀▀▀     
+▀███████████ ███    ███          ███     ███          ███    █▄  ███    ███ ███    ███   ███    █▄  
+  ███    ███ ███    ███    ▄█    ███     ███          ███    ███ ███    ███ ███   ▄███   ███    ███ 
+  ███    ███ ████████▀   ▄████████▀     ▄████▀        ████████▀   ▀██████▀  ████████▀    ██████████ 
+  ███    ███                                                                                        
+"
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31mparsing\033[0m] legitimate rust (\|) ._. (|/)"
+sleep 0.67
+
+memes=(
+    "real rust code"
+    "your mum"
+)
+
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mstatus\033[0m] moisturized"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] coding tutorial"
+sleep 10
