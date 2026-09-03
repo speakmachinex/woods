@@ -1,0 +1,38 @@
+# ASCII fonts: DOS Rebel, 3D ASCII, Small Isometric1, Isometric1, Relief, S Blood
+# Delta Corps Priest1, Alpha, Binary, Computer, Decimal, Hex, Isometric3, Isometric 4
+# Octal, Relief2, Small Shadow, Shadow, Stellar
+
+echo "
+                                 ░██                            ░██ 
+                                 ░██                            ░██ 
+ ░███████   ░███████  ░██    ░██ ░██     ░█████████████   ░████████ 
+░██        ░██    ░██ ░██    ░██ ░██     ░██   ░██   ░██ ░██    ░██ 
+ ░███████  ░██    ░██ ░██    ░██ ░██     ░██   ░██   ░██ ░██    ░██ 
+       ░██ ░██    ░██ ░██   ░███ ░██     ░██   ░██   ░██ ░██   ░███ 
+ ░███████   ░███████   ░█████░██ ░██ ░██ ░██   ░██   ░██  ░█████░██ 
+"
+
+sleep 1.5
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31msummoning\033[0m] Marcus Aurelius"
+sleep 1.2
+
+memes=(
+        "meditations"
+        "basedness"
+      )
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mlinking\033[0m] guys who sit on porches"
+sleep 0.9
+
+echo "[\033[0;31mstatus\033[0m] moisturized"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] rant"
+sleep 10
