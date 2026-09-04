@@ -1,0 +1,35 @@
+# Font used: Future
+# Generated with https://ezascii.com/
+
+echo "
+░█▀█░█▀█░░░░░█▀▀░█▀█░█▀▄░█▀▀░░░░░█▀█░█▀▀░█▀▀░█▀█░▀█▀░░░░░█▀█░█░░░▄▀▄░█░█
+░█░█░█░█░░░░░█░░░█░█░█░█░█▀▀░░░░░█▀█░█░█░█▀▀░█░█░░█░░░░░░█▀▀░█░░░█ █░▄▀▄
+░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░░░▀▀▀░░▀░░▀░▀
+"
+
+sleep 1.5
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31msummoning\033[0m] OpenClaw agent 🦀"
+sleep 1.3
+
+memes=(
+        "brainrot"
+        "skill loss"
+        "severe dependence"
+        "lack of joy when coding"
+      )
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mlinking\033[0m] to your wallet"
+sleep 0.9
+
+echo "[\033[0;31mstatus\033[0m] moisturized"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] rant"
+sleep 10
