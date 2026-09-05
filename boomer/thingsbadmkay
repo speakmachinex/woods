@@ -46,6 +46,9 @@ done
 echo "[\033[0;31mlinking\033[0m] number go up"
 sleep 0.9
 
+echo "[\033[0;31mlocation\033[0m] the Mogument"
+sleep 0.9
+
 echo "[\033[0;31mstatus\033[0m] moisturized"
 sleep 0.9
 echo "[\033[0;31mexec\033[0m] rant"
